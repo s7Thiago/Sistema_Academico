@@ -1,0 +1,18 @@
+Sistema acadêmico básico:
+
+          • Cadastrar disciplina;
+
+          • Excluir disciplina;
+
+          • Cadastrar aluno;
+
+          • Excluir aluno;
+
+          • Listar disciplinas existentes;
+
+          • Listar disciplinas de um aluno;
+
+          • Listar alunos;
+
+          •  Relatório do aluno;
+                 • Nome, matrícula, notas, média, pontos restantes para aprovação. 
