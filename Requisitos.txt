@@ -13,6 +13,8 @@ Sistema acadêmico básico:
           • Listar disciplinas de um aluno;
 
           • Listar alunos;
+		
+	  • Resultados estatísticos (balanço semestral);	  
 
           •  Relatório do aluno;
                  • Nome, matrícula, notas, média, pontos restantes para aprovação;
