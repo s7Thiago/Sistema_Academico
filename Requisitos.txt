@@ -14,12 +14,18 @@ Sistema acadêmico básico:
           
 
 
+<<<<<<< HEAD
           -----------------------------------------Estrutura do projeto---------------------------------------------
 		• Exigir que seja feito login antes de entrar no sistema
 		• Depois, será exibido o menu principal, estruturado com as seguintes opções:
 			 - Novo:
 				 - Aluno;
 				 - Notas;
+=======
+          • Listar alunos;
+		
+	  • Resultados estatísticos (balanço semestral);	  
+>>>>>>> a02c6c6f6d4f0ccd9e0f88b57edf21c01915f696
 
 			 - Exibir:
 				 - Alunos;
