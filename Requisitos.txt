@@ -1,19 +1,37 @@
 Sistema acadêmico básico:
 
-          • Cadastrar disciplina;
+	  • Interface do login;          
 
-          • Excluir disciplina;
+	  • Cadastrar, alterar, listar e excluir notas;
+	 
+ 	  • Gerar e listar matrículas;
 
-          • Cadastrar aluno;
+          • Cadastrar, alterar, listar e excluir nomes dos alunos;
 
-          • Excluir aluno;
+          • Gerar consultas individuais do aluno: nome, matrícula, notas, média, resultado(aprovado, reprovado);
 
-          • Listar disciplinas existentes ;
+	  • Gerar relatórios do gerais: media do curso, media das disciplinas;
+          
 
-          • Listar disciplinas de um aluno;
 
-          • Listar alunos;
+          -----------------------------------------Estrutura do projeto---------------------------------------------
+		• Exigir que seja feito login antes de entrar no sistema
+		• Depois, será exibido o menu principal, estruturado com as seguintes opções:
+			 - Novo:
+				 - Aluno;
+				 - Notas;
 
-          •  Relatório do aluno;
-                 • Nome, matrícula, notas, média, pontos restantes para aprovação;
-THIAGO E REPETILIANO
+			 - Exibir:
+				 - Alunos;
+					 -Seleciona o aluno;
+						- Alterar;
+							 - aluno;
+							 - nota;
+						 - Excluir;
+							- aluno;
+							- nota;
+				- Relatório;
+					- Média do curso;
+					- Média das disciplinas;
+
+          -----------------------------------------Estrutura do projeto---------------------------------------------
