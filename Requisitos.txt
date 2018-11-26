@@ -15,4 +15,4 @@ Sistema acadêmico básico:
           • Listar alunos;
 
           •  Relatório do aluno;
-                 • Nome, matrícula, notas, média, pontos restantes para aprovação. 
+                 • Nome, matrícula, notas, média, pontos restantes para aprovação;
