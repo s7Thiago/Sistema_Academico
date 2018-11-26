@@ -8,7 +8,7 @@ Sistema acadêmico básico:
 
           • Excluir aluno;
 
-          • Listar disciplinas existentes;
+          • Listar disciplinas existentes ;
 
           • Listar disciplinas de um aluno;
 
@@ -16,3 +16,4 @@ Sistema acadêmico básico:
 
           •  Relatório do aluno;
                  • Nome, matrícula, notas, média, pontos restantes para aprovação;
+THIAGO E REPETILIANO
