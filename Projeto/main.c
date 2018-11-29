@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "funcoes.h"
+
+int main() {
+
+    aluno a;
+    a.matricula = 826484;
+    a.media = 7;
+    a.nome = "Mariana Silva";
+    a.nota1 = 7;
+    a.nota2 = 7;
+
+    salvarAluno(a);
+
+    printf("Nome do aluno: %s\n\n", a.nome);
+    return 0;
+}
+
