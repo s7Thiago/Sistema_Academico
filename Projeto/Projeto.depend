@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1543518722 source:d:\git test workspace\sistema_academico\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1543518884 source:d:\git test workspace\sistema_academico\projeto\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+
+1543518407 d:\git test workspace\sistema_academico\projeto\funcoes.h
+

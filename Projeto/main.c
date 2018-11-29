@@ -14,6 +14,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include <string.h>
 #include "sistema_academico.h"
 
@@ -30,6 +31,27 @@ int main() {
     fprintf(nome, "%s", arquivo);
     fclose(arquivo);
 
+=======
+#include "funcoes.h"
+
+int main() {
+
+    aluno a;
+    a.matricula = 826484;
+    a.media = 7;
+    a.nome = "Fernanda Josefa";
+    a.nota1 = 7;
+    a.nota2 = 7;
+
+    salvarAluno(a);
+
+    printf("Nome do aluno: %s\n\n", a.nome);
+
+    //
+    char *primeiroNome = retornaPrimeiroNome(a.nome);
+    printf("\n\nprimeiro nome: ");
+    puts(primeiroNome);
+>>>>>>> projeto_codeblocks
     return 0;
 =======
 #include "sistema_academico.h"
@@ -82,6 +104,7 @@ int main(int argc, char** argv)
 >>>>>>> 2ccd46da8d45cdc8844fa5e5135a59f7ceb6a6d8
 }
 
+<<<<<<< HEAD
 void novoAluno(char *nome, int matricula)
 {
     //Ponteiro para o arquivo
@@ -135,3 +158,5 @@ void listarConteudoDaPasta(DIR *dir, char *pathDir)
 
 
 
+=======
+>>>>>>> projeto_codeblocks

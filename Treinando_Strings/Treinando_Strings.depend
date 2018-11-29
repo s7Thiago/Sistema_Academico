@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543460649 source:d:\git test workspace\sistema_academico\treinando_strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
