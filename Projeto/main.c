@@ -15,6 +15,7 @@
 #include <stdlib.h>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include <string.h>
 #include "sistema_academico.h"
 
@@ -36,6 +37,12 @@ int main() {
 
 int main() {
 
+=======
+#include "funcoes.h"
+
+int main() {
+
+>>>>>>> projeto_codeblocks
     aluno a;
     a.matricula = 826484;
     a.media = 7;
@@ -51,6 +58,9 @@ int main() {
     char *primeiroNome = retornaPrimeiroNome(a.nome);
     printf("\n\nprimeiro nome: ");
     puts(primeiroNome);
+<<<<<<< HEAD
+>>>>>>> projeto_codeblocks
+=======
 >>>>>>> projeto_codeblocks
     return 0;
 =======
@@ -140,6 +150,7 @@ void listarConteudoDaPasta(DIR *dir, char *pathDir)
     closedir(dir);
 }
 
+<<<<<<< HEAD
 
 
 
@@ -158,5 +169,7 @@ void listarConteudoDaPasta(DIR *dir, char *pathDir)
 
 
 
+=======
+>>>>>>> projeto_codeblocks
 =======
 >>>>>>> projeto_codeblocks
