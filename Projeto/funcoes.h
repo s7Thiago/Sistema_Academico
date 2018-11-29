@@ -1,4 +1,6 @@
-//Structs
+/**
+*Structs
+**/
 
 //Representacao geral das propriedades de cada aluno
 typedef struct {
@@ -14,10 +16,19 @@ typedef struct {
 
 } disciplina;
 
-//Structs
-
+/**
+*Structs
+**/
+//===================================================================================
 //Headers
 
-//Salva um aluno em um arquivo
+/**
+*Salva um aluno em um arquivo. o arquivo vai com o nome do aluno
+**/
 void salvarAluno(aluno a);
 
+/**
+*Separa o primeiro nome do sobrenome e o retorna
+**/
+char * retornaPrimeiroNome(char *nome);
+//===================================================================================
