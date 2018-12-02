@@ -3,15 +3,19 @@
 **/
 
 //Representacao geral das propriedades de cada aluno
+
+//Definindo tipo string
+typedef char *string;
+
 typedef struct {
-    char *nome;
+    string nome;
     int matricula;
     float nota1, nota2, media;
 } aluno;
 
 //Representacao geral de uma disciplina
 typedef struct {
-    char nome[60];
+    string nome;
     aluno listaDeMatriculados[];
 
 } disciplina;
